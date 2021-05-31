@@ -2,7 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-All of the Contributors of this project
+All of the Contributors of this project.
+
+If you are someone who has contributed to this project pls look at this issue: https://github.com/CoderEdits/CoderEdits.github.io/issues/1
 
 ## Contributors ✨
 
